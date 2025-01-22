@@ -36,6 +36,11 @@ git pull origin <branch-name>
 
 # Branching
 
+### Show all branches
+```bash
+git branch -a
+```
+
 ### Creates a new branch
 ```bash
 git branch <branch-name>
