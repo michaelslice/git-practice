@@ -9,6 +9,32 @@
 - pull request: a place to compare and discuss the differences introduced on a branch with reviews, comments, integrated tests, and more
 - HEAD: representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using git switch
 
+# Common Commands on a code base
+
+### Add File to Staging
+```bash
+git clone <repo>
+```
+
+### Create a branch
+```bash
+git branch <branch-name>
+```
+
+### Switch branches
+```bash
+git switch -c <branch-name
+```
+### Switch branches
+```bash
+git checkout <branch-name
+```
+
+### List all branches
+```bash
+git branch -a
+```
+
 # Basic Workflow
 
 ### Add File to Staging
